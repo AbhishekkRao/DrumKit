@@ -5,7 +5,7 @@ for(var i=0;i<document.querySelectorAll(".drum").length;i++)
     
     var ch=this.innerHTML;
     makeSound(ch);
-    buttani(ch  );        
+    buttani(ch);        
 });
 }
 
